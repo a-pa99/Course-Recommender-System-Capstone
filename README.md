@@ -6,6 +6,10 @@ This project requires Python XXX and the following Python libraries installed:
 
 ### Technology Stack
 
+### Code sharing
+
+- Git & Github
+
 ### Data Exploration:
 
 - Numpy

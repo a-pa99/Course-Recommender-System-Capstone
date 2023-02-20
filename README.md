@@ -2,7 +2,7 @@
 
 ### Install
 
-This project requires Python 2.7 and the following Python libraries installed:
+This project requires Python XXX and the following Python libraries installed:
 
 ### Technology Stack
 
@@ -21,9 +21,11 @@ This project requires Python 2.7 and the following Python libraries installed:
 ### Data Preparation:
 
 - nltk
+- Word2Vec
 
 ### Modeling:  
 
+- sklearn
 
 You will also need to have software installed to run and execute an iPython Notebook
 

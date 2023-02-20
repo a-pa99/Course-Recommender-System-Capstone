@@ -26,6 +26,7 @@ This project requires Python XXX and the following Python libraries installed:
 ### Modeling:  
 
 - sklearn
+- pickle
 
 You will also need to have software installed to run and execute an iPython Notebook
 

@@ -21,7 +21,7 @@ This project requires Python XXX and the following Python libraries installed:
 ### Data Preparation:
 
 - nltk
-- Word2Vec
+- gensim
 
 ### Modeling:  
 

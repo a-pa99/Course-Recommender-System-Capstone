@@ -13,17 +13,20 @@
 In this project, we aim to analyze the data to answer a specific research question or solve a specific problem. We used various data science techniques and tools to collect, process, and analyze data. The findings of the project are documented in a Jupyter Notebook, which is included in this repository.
 
 ### Data Sources
-The modified Boston housing dataset consists of 489 data points, with each datapoint having 3 features. This dataset is a modified version of the Boston Housing dataset found on the UCI Machine Learning Repository.
+Source 1: Job description data from the [O*NET 27.2 Database](https://www.onetcenter.org/database.html#task). Original source: [the U.S. Department of Labor, Employment and Training Administration](https://www.dol.gov/agencies/eta)
 
-Source 1
 Features
 
-RM: average number of rooms per dwelling
-LSTAT: percentage of population considered lower status
-PTRATIO: pupil-teacher ratio by town
-Target Variable 4. MEDV: median value of owner-occupied homes
+- O*NET-SOC Code: Occupation Code 
+- Title: Occupation title
+- Task ID:	Identifies each task
+- Task: Task statement associated with an occupation
+- Task Type:	“Core” or “Supplemental”
+- Incumbents Responding: Number of incumbents providing task information
+- Date:	Date when data was updated
+- Domain Source:	Source of the data
 
-Source 2: Udemy Course Enrollment Information [Dataset]([https://www.kaggle.com/datasets/songseungwon/2020-udemy-courses-dataset?select=udemy_finance.csv])
+Source 2: Udemy Course Enrollment Information [Dataset](https://www.kaggle.com/datasets/songseungwon/2020-udemy-courses-dataset?select=udemy_finance.csv)
 
 This data set contains data for about 42K(42,432) courses based on 9 categories. The data was collected using a Python scraper coded with selenium, bs4, etc.
 The 9 course categories are; Business, Design, Finance, Marketing, Productivity, Photography, Lifestyle, Music and Tech. 

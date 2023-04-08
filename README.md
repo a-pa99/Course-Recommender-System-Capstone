@@ -53,14 +53,17 @@ Run the cells in order to reproduce the analysis
 ...
 
 ### Contributing
-Explain how others can contribute to the project, including how to report issues and how to submit pull requests.
-
 We welcome contributions from anyone. To report issues or request new features, please use the issue tracker. If you'd like to contribute code, please fork the repository and submit a pull request.
 
-### License
-Specify the license under which the project is distributed.
+# Developer Notes 
+- Make sure to push into the `dev` branch only.
+- `git checkout dev` (will switch your active branch to be dev locally)
+- Before pushing your code with the downloaded data, make sure to run `git pull`. (this will download the latest changes locally for you, and avoid merge conflicts)
+- `git commit -m "<a few words on what is pushed>"`
+- `git add .` adds all in all the changes
+- `git push` to push the code into the `dev` branch repository
 
+### License
 This project is licensed under the MIT License.
 
-You will also need to have software installed to run and execute an iPython Notebook
 

@@ -23,20 +23,20 @@ LSTAT: percentage of population considered lower status
 PTRATIO: pupil-teacher ratio by town
 Target Variable 4. MEDV: median value of owner-occupied homes
 
-Source 2: Udemy Course Enrollment Information [Dataset]([https://archive.ics.uci.edu/ml/datasets/Housing](https://www.kaggle.com/datasets/songseungwon/2020-udemy-courses-dataset?select=udemy_finance.csv))
+Source 2: Udemy Course Enrollment Information [Dataset]([https://www.kaggle.com/datasets/songseungwon/2020-udemy-courses-dataset?select=udemy_finance.csv])
 
 This data set contains data for about 42K(42,432) courses based on 9 categories. The data was collected using a Python scraper coded with selenium, bs4, etc.
 The 9 course categories are; Business, Design, Finance, Marketing, Productivity, Photography, Lifestyle, Music and Tech. 
 
 Features
 
-Index : Index of rows
-Title : Title of Course
-Summary : Summary information of the course
-Enrollment : The cumulative number of students in the course
-Stars : The number of ratings (reviews) of the course
-Rating : Average rating for the course
-Link : Link to detail page of the course
+- Index : Index of rows
+- Title : Title of Course
+- Summary : Summary information of the course
+- Enrollment : The cumulative number of students in the course
+- Stars : The number of ratings (reviews) of the course
+- Rating : Average rating for the course
+- Link : Link to detail page of the course
 
 ### Installation
 - Clone the repository

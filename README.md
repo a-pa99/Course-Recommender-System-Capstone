@@ -35,12 +35,12 @@ This project requires Python XXX and the following Python libraries installed:
 You will also need to have software installed to run and execute an iPython Notebook
 
 ### Table of Contents
-[Introduction](#Introduction)
-[Data Sources](#Data Sources)
-[Installation](#Installation)
-[Usage](#Usage)
-[Contributing](#Contributing)
-[License](#License)
+- [Introduction](#Introduction)
+- [Data Sources](#Data Sources)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Contributing](#Contributing)
+- [License](#License)
 
 ### Introduction
 In this project, we aim to analyze the data to answer a specific research question or solve a specific problem. We used various data science techniques and tools to collect, process, and analyze data. The findings of the project are documented in a Jupyter Notebook, which is included in this repository.

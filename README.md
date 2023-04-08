@@ -1,38 +1,5 @@
 # Course-Recommender-System-Capstone
 
-### Install
-
-This project requires Python XXX and the following Python libraries installed:
-
-### Technology Stack
-
-### Code sharing
-
-- Git & Github
-
-### Data Exploration:
-
-- Numpy
-- Pandas
-
-### Data visualization:
-
-- Matplotlib
-- Altair
-- Seaborn
-- Plotly
-
-### Data Preparation:
-
-- nltk
-- gensim
-
-### Modeling:  
-
-- sklearn
-- pickle
-
-You will also need to have software installed to run and execute an iPython Notebook
 
 ### Table of Contents
 - [Introduction](#Introduction)
@@ -46,17 +13,34 @@ You will also need to have software installed to run and execute an iPython Note
 In this project, we aim to analyze the data to answer a specific research question or solve a specific problem. We used various data science techniques and tools to collect, process, and analyze data. The findings of the project are documented in a Jupyter Notebook, which is included in this repository.
 
 ### Data Sources
-List the data sources used in the project here. Provide links to the data sources if possible.
+The modified Boston housing dataset consists of 489 data points, with each datapoint having 3 features. This dataset is a modified version of the Boston Housing dataset found on the UCI Machine Learning Repository.
 
 Source 1
-Source 2
-...
-### Installation
-Provide instructions on how to install the necessary dependencies and setup the project.
+Features
 
-### Clone the repository
-Install the required packages using pip install -r requirements.txt
-...
+RM: average number of rooms per dwelling
+LSTAT: percentage of population considered lower status
+PTRATIO: pupil-teacher ratio by town
+Target Variable 4. MEDV: median value of owner-occupied homes
+
+Source 2: Udemy Course Enrollment Information [Dataset]([https://archive.ics.uci.edu/ml/datasets/Housing](https://www.kaggle.com/datasets/songseungwon/2020-udemy-courses-dataset?select=udemy_finance.csv))
+
+This data set contains data for about 42K(42,432) courses based on 9 categories. The data was collected using a Python scraper coded with selenium, bs4, etc.
+The 9 course categories are; Business, Design, Finance, Marketing, Productivity, Photography, Lifestyle, Music and Tech. 
+
+Features
+
+Index : Index of rows
+Title : Title of Course
+Summary : Summary information of the course
+Enrollment : The cumulative number of students in the course
+Stars : The number of ratings (reviews) of the course
+Rating : Average rating for the course
+Link : Link to detail page of the course
+
+### Installation
+- Clone the repository
+- Install the required packages using pip install -r requirements.txt
 
 ### Usage
 Explain how to run the project and what to expect.

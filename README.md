@@ -1,5 +1,9 @@
 # Course-Recommender-System-Capstone
+<i>Asia Paige, Chauncey Raggie, Thomas James</i>
 
+When you’re thinking about switching careers or up-skilling to move up in your industry, it can be overwhelming to search for courses that will help give you those skills. Usually, this process requires multiple searches across multiple websites which leads to multiple tabs. Our project aims to address this problem by creating a recommendation system that takes job titles as the input and recommends relevant courses that may help an individual gain skills as the output.
+
+The literature we reviewed presented attempts using skilled based approaches i.e. by taking job skills as the input and recommending courses as the output.  Our goal in this project is to see if it’s possible to take job titles that may not have direct correlation to course summaries like skills do, and recommend relevant courses. This project is an information retrieval task.
 
 ### Table of Contents
 - [Introduction](#Introduction)
@@ -55,7 +59,7 @@ Run the cells in order to reproduce the analysis
 ### Contributing
 We welcome contributions from anyone. To report issues or request new features, please use the issue tracker. If you'd like to contribute code, please fork the repository and submit a pull request.
 
-# Developer Notes 
+### Developer Notes 
 - Make sure to push into the `dev` branch only.
 - `git checkout dev` (will switch your active branch to be dev locally)
 - Before pushing your code with the downloaded data, make sure to run `git pull`. (this will download the latest changes locally for you, and avoid merge conflicts)

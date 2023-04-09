@@ -73,7 +73,7 @@ This project is licensed under the MIT License.
 ### Project Structure 
 
 <p align=center>
-    <img src="./static/img/structure.png">
+    <img src="./images/structure.png">
 </p>
 
 ### Future Plans

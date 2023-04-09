@@ -70,4 +70,10 @@ We welcome contributions from anyone. To report issues or request new features, 
 ### License
 This project is licensed under the MIT License.
 
+### Project Structure 
 
+<p align=center>
+    <img src="./static/img/structure.png">
+</p>
+
+### Future Plans

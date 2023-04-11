@@ -1,7 +1,0 @@
-pandas
-numpy==1.21.5
-sklearn==1.0.2
-dash==2.9.2
-dash_bootstrap_compnents==1.4.1
-plotly==5.6.0
-gunicorn

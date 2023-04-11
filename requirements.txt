@@ -1,0 +1,10 @@
+python==3.9.16
+pandas==1.4.2
+numpy==1.23.4
+re==2.2.1
+seaborn==0.12.1
+matplotlib==3.6.0
+gensim==4.3.0
+sklearn==0.24.2
+rake-nltk==1.0.6
+yake==0.4.8

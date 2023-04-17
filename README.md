@@ -84,7 +84,7 @@ This project is licensed under the MIT License.
     <img src="./images/structure.PNG">
 </p>
 
-## Course Recommender application UI
+### Course Recommender application UI
 
 <p align=center>
     <img src="./images/front-end.PNG">

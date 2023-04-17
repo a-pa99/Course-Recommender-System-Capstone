@@ -50,16 +50,23 @@ Features
 - Rating : Average rating for the course
 - Link : Link to detail page of the course
 
+## Recommended System Requirements
+To run this project, you'll need the following:
+
+- Python 3.6 or higher
+- 32GB of RAM or more
+
 ### Installation
 - Clone the repository
 - Install the required packages using pip install -r requirements.txt
 
-### Usage
-Explain how to run the project and what to expect.
+You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
 
-### Open the Jupyter Notebook
-Run the cells in order to reproduce the analysis
-...
+If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included. 
+
+### How to run the app locally
+- run 'Pickle File Creation Instructions.ipynb' notebook to create pickle file
+- run rec_app_2.py in IDE of your choice
 
 ### Contributing
 We welcome contributions from anyone. To report issues or request new features, please use the issue tracker. If you'd like to contribute code, please fork the repository and submit a pull request.

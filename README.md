@@ -1,10 +1,6 @@
 # Course-Recommender-System-Capstone
 <i>Asia Paige, Chauncey Raggie, Thomas James</i>
 
-<p align=center>
-    <img src="./images/front-end.PNG">
-</p>
-
 
 When you’re thinking about switching careers or up-skilling to move up in your industry, it can be overwhelming identifying the skills needed for a desired job and searching for courses that will help give you those skills. Usually, this process requires multiple searches across multiple websites which leads to multiple tabs. Our project aims to address this problem by creating a recommendation system that takes job titles as the input and recommends relevant courses that may help an individual gain skills as the output.
 
@@ -86,6 +82,12 @@ This project is licensed under the MIT License.
 
 <p align=center>
     <img src="./images/structure.PNG">
+</p>
+
+## Course Recommender application UI
+
+<p align=center>
+    <img src="./images/front-end.PNG">
 </p>
 
 

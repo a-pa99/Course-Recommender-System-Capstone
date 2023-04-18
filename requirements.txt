@@ -4,7 +4,26 @@ numpy==1.23.4
 re==2.2.1
 seaborn==0.12.1
 matplotlib==3.6.0
+wordcloud==1.8.2.2
 gensim==4.3.0
-sklearn==0.24.2
+sklearn==1.0.2
 rake-nltk==1.0.6
 yake==0.4.8
+dash==2.9.2
+dash_bootstrap_components==1.4.1
+plotly==5.6.0
+transformers==4.28.1
+tweepy==4.13.0
+textblob==0.17.1
+protobuf==4.22.3
+zeugma==0.49
+pyLDAvis==3.4.0
+glove==1.0.2
+smart_open==6.3.0
+spacy==3.5.2
+BertTokenizer==3.0.2
+TFBertModel==3.0.2
+TFRobertaModel==3.0.2
+RobertaTokenizer==3.0.2
+pickle==protocol version 5
+
